@@ -1,3 +1,6 @@
 [submodule "Database-Project"]
 	path = Database-Project
 	url = https://github.com/wilzxl/Database-Project
+[submodule "smallrepo"]
+	path = smallrepo
+	url = https://github.com/wilzxl/testsubmodule/smallrepo

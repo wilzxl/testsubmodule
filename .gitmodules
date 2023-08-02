@@ -4,3 +4,6 @@
 [submodule "smallrepo"]
 	path = smallrepo
 	url = https://github.com/wilzxl/testsubmodule/smallrepo
+[submodule "smallrepo1"]
+	path = smallrepo1
+	url = https://github.com/wilzxl/testsubmodule/smallrepo1
